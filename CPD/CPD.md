@@ -8,6 +8,26 @@ Setting Up and learning code
 
 What have I learnt?
 Creating repository, Fork and clone respitory, text editors and development tools
+
+How did I use this in practice?
+
+Used github and VSC to edit my CPD and deposit it to github
+
+What did I find hard?
+
+Struggled to find LTU on github but used the link in the chat on teams to catch-up.
+
+
+
+
+Date of CPD activity
+21/04/2021
+
+CPD activity
+Setting Up and learning code
+
+What have I learnt?
+Creating repository, Fork and clone respitory, text editors and development tools
 I learnt about the different positions in web development, like what a front end developer is and does....
 
 How did I use this in practice?
