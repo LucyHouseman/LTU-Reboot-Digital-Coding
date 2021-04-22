@@ -5,7 +5,7 @@ Date of CPD activity
 
 CPD activity
 
-Learning the code with thecourse
+Learning the code with the course
 
 What have I learnt?
 
@@ -13,7 +13,7 @@ A range of different sources I can use to help me learn to code alongside the co
 
 How did I use this in practice?
 
-Signing in to free code camp and doing the first few tasks on responsive web design.
+Signing in to free code camp and doing the first few tasks on responsive web design. Setting up a practice-repo.
 
 What did I find hard?
 
