@@ -1,21 +1,23 @@
 CPD - Continuing Professional Development
 
 Date of CPD activity
-21/04/2021
+22/04/2021
 
 CPD activity
-Setting Up and learning code
+
+Learning the code with thecourse
 
 What have I learnt?
-Creating repository, Fork and clone respitory, text editors and development tools
+
+A range of different sources I can use to help me learn to code alongside the course (meemoo ect.)
 
 How did I use this in practice?
 
-Used github and VSC to edit my CPD and deposit it to github
+Signing in to free code camp and doing the first few tasks on responsive web design.
 
 What did I find hard?
 
-Struggled to find LTU on github but used the link in the chat on teams to catch-up.
+Rembering to put the / in the closing tabs.
 
 
 
