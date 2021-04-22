@@ -17,7 +17,7 @@ Signing in to free code camp and doing the first few tasks on responsive web des
 
 What did I find hard?
 
-Rembering to put the / in the closing tabs.
+Rembering to put the / in the closing tabs and commenting on code section on free code camp.
 
 
 
