@@ -1,20 +1,19 @@
 CPD - Continuing Professional Development
 
 Date of CPD activity
-26/04/2021
+27/04/2021
 
 CPD activity
 
-Learning HTML for Google home page clone 
+CSS for google clone page 
 
 What have I learnt?
 
-How to link to different images,pages and how to direct a link to a new page in the browser. How to create lists and the different paths for page links. 
+How to code and change the colours and font text.
 
 How did I use this in practice?
 
-Started to create a google home page clone 
+Started to change the colour and font size and style on my google home page clone 
 
 What did I find hard?
 
-The different shortcuts.
