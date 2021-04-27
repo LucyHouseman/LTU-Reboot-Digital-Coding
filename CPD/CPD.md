@@ -17,3 +17,4 @@ Started to change the colour and font size and style on my google home page clon
 
 What did I find hard?
 
+Creating the boxes 
