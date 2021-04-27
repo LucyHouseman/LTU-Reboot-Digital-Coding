@@ -17,4 +17,4 @@ Started to create a google home page clone
 
 What did I find hard?
 
-The different shortcuts. 
+The different shortcuts.
